@@ -6,6 +6,12 @@ LVDCraft Modpack for Minecraft with Forge!
 
 **SETUP & INSTALLATION**
 
+**CurseForge Installation**: https://www.curseforge.com/minecraft/modpacks/lvdcraft/files
+
+**TLauncher Installation**: [tlauncher.md](tlauncher.md)
+ 
+ **Below tutorial only for manual install!**
+
 - **FORGE**: For full compatibility with in-game mods please use Forge **1.16.5 - 36.2.22**.
 
 - **PARAMETERS**: I highly recommend 4GB RAM or higher for a best experience. To do that change JVM Arguments to '-Xmx4G'. JVM Arguments will look like this:

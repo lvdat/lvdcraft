@@ -3,10 +3,9 @@ LVDCraft Modpack for Minecraft with Forge!
 
 ![bg_minimumsize](https://user-images.githubusercontent.com/72507371/147808290-301428f0-6a85-43b1-a197-1b655347ec30.png)
 
+(**CurseForge Installation**: https://www.curseforge.com/minecraft/modpacks/lvdcraft/files)
 
 **SETUP & INSTALLATION**
-
-**CurseForge Installation**: https://www.curseforge.com/minecraft/modpacks/lvdcraft/files
 
 - Download latest TL Modpack version: https://github.com/lvdat/lvdcraft/releases/tag/v1.2-tl
 - Open TLauncher, and click "TL Mods" icon

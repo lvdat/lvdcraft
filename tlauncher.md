@@ -1,4 +1,7 @@
 # LVDCraft v1.2 (TLauncher)
+
+v1.3.2 now release with install tutorial: https://github.com/lvdat/lvdcraft/releases/tag/v1.3.2-TL
+
 LVDCraft Modpack for Minecraft with Forge!
 
 ![bg_minimumsize](https://user-images.githubusercontent.com/72507371/147808290-301428f0-6a85-43b1-a197-1b655347ec30.png)

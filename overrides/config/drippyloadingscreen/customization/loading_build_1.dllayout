@@ -1,0 +1,91 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  scale = 2
+  randomonlyfirsttime = false
+  backgroundcolor = #ffffff
+}
+
+customization {
+  orientation = top-centered
+  visible = false
+  x = 0
+  action = editlogo
+  y = 13
+}
+
+customization {
+  orientation = bottom-right
+  x = -13
+  textcolor = #8c8382
+  action = editforgememoryinfo
+  y = -7
+}
+
+customization {
+  orientation = bottom-right
+  x = -9
+  action = editforgestatustext
+  y = -21
+}
+
+customization {
+  orientation = mid-centered
+  x = 0
+  action = editprogressbar
+  y = 55
+  barcolor = #eb200e
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 28
+  textcolor = #f7685e
+  action = addtext
+  actionid = 9e7f7d6d-9bbd-46df-8d6c-2ebce969ac761640955132975
+  y = -7
+  scale = 1.0
+  alignment = left
+  value = Loading...
+}
+
+customization {
+  path = image/loading.gif
+  orientation = bottom-left
+  x = 0
+  width = 28
+  action = addtexture
+  actionid = 00f326ea-2283-4507-aad9-7811246f59521640955319783
+  y = 0
+  height = 28
+}
+
+customization {
+  path = image/mojang_studios.png
+  orientation = top-centered
+  x = 0
+  width = 360
+  action = addtexture
+  actionid = b04a1d21-d763-4fd1-91b6-23af823b114a1641363478736
+  y = 71
+  height = 93
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #f7685e
+  action = addtext
+  actionid = 08a66133-7d52-436d-92ad-fe4b1725e0431641468995745
+  y = -18
+  scale = 1.0
+  alignment = left
+  value = LVDCraft v1.3.2
+}
+

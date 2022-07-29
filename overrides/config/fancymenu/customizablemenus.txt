@@ -1,0 +1,35 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsScreen {
+}
+
+net.minecraft.client.gui.screen.CustomizeSkinScreen {
+}
+
+net.minecraft.client.gui.screen.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screen.WorldLoadProgressScreen {
+}
+
+net.minecraft.client.gui.screen.DirtMessageScreen {
+}
+
+net.minecraft.client.gui.AccessibilityScreen {
+}
+
+net.minecraft.client.gui.screen.ConfirmOpenLinkScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsSoundsScreen {
+}
+
+net.minecraft.client.gui.screen.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screen.ControlsScreen {
+}
+
